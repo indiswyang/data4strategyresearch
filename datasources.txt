@@ -1,0 +1,12 @@
+1. steamspy: vedio game data on Steam 
+http://steamspy.com/ 
+replated area: technology; competition
+
+
+2. Everypolitician: crowdsourced worldwide political science data
+http://everypolitician.org/
+related area: international business (market entry); non-market strategies
+
+3. OpenSecrets: this is only about US, with awesome company data of polictical contribution
+https://www.opensecrets.org/
+related area: international business (market entry); non-market strategies
