@@ -6,5 +6,5 @@ I choose the GNU license so that everyone can benefit from this respository
 The data may our maynot be ready for use, you can submit your ideas of extracting those data (e.g. programming skills required, theortical domains, constructs and potential pitfalls.
 
 ## If you have new data sources, pelase submit a pull request, so that I can add your data source to the repo
-
+It would be the best if you have can have a brief intro to the data and how it can be relevant to strategy/management research
 
