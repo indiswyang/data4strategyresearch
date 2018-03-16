@@ -10,3 +10,7 @@ related area: international business (market entry); non-market strategies
 3. OpenSecrets: this is only about US, with awesome company data of polictical contribution
 https://www.opensecrets.org/
 related area: international business (market entry); non-market strategies
+
+4. Movie ratings
+https://www.imdb.com/interfaces/
+
