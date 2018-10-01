@@ -14,3 +14,5 @@ related area: international business (market entry); non-market strategies
 4. Movie ratings
 https://www.imdb.com/interfaces/
 
+5. Redfin data center (the walking score data could be an interesting instrument)
+https://www.redfin.com/blog/data-center
